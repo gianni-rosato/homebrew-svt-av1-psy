@@ -2,7 +2,7 @@ class SvtAv1Psy < Formula
   desc "Perceptual AV1 Encoder"
   homepage "https://svt-av1-psy.com"
   url "https://github.com/gianni-rosato/svt-av1-psy/archive/refs/tags/v2.3.0-A.tar.gz"
-  sha256 "96d4fbec8fb1ef679f5445e47a93ae9f8622cb181571e24deac8f80344927a44"
+  sha256 "63d968ad77a78e337c0bec4659607b47534a58af720a2a508dca8bf563274057"
   license "BSD-3-Clause"
   head "https://github.com/gianni-rosato/svt-av1-psy.git", branch: "master"
 
